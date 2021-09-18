@@ -1,0 +1,3 @@
+Git is a developer friendly tool.
+
+Git helps in tracking history.
